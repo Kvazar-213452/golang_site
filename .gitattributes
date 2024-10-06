@@ -2,3 +2,5 @@
 
 views/index.html linguist-documentation
 static/**.css linguist-documentation
+prefab/**.scss linguist-documentation
+static/**.js linguist-documentation
